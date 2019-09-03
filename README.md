@@ -99,7 +99,7 @@ untrusted code.
 6. For the mainline flavor, we unit-test the libraries using only OpenJDK 1.8 on
 Linux. Some features, especially in `com.google.common.io`, may not work
 correctly in other environments. For the Android flavor, our unit tests run on
-API level 15 (Ice Cream Sandwich).
+API level 15 (Ice Cream Sandwich)!
 
 [guava-snapshot-api-docs]: https://google.github.io/guava/releases/snapshot-jre/api/docs/
 [guava-snapshot-api-diffs]: https://google.github.io/guava/releases/snapshot-jre/api/diffs/
